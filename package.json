@@ -1,0 +1,23 @@
+{
+  "name": "chatgpt-app-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ChatGPT",
+    "API",
+    "package"
+  ],
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT",
+  "description": "A package for developing apps using ChatGPT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AllyElvis/chatgpt-app-package.git"
+  },
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
