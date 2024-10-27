@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const API_URL = 'https://api.openai.com/v1/chat/completions';
-const API_KEY = 'sk-K-key1emDUsKirgroy1sbNM4jnLhQE92XZlA-GyTwQT3BlbkFJIz02sjuALC4qaEj-4p3tspVECPTZIIpBlddPUSHEMA'; // Store this securely
+const API_KEY = '$API_KEY'; // Store this securely
 
 const getChatGPTResponse = async (prompt) => {
     try {
